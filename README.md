@@ -143,7 +143,9 @@ Neste desafio foram abordados os seguintes temas:
 
 ---
 ## Deploy do projeto.
-https://food-explorer-lidiane-diniz.netlify.app/
+
+https://gustavo-lobo-explorer.netlify.app
+
 
 
 ---
@@ -152,6 +154,5 @@ https://food-explorer-lidiane-diniz.netlify.app/
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Lidiane Diniz  [Get in Touch!](https://www.linkedin.com/in/lidiane-cristina-diniz)
 
 ---
